@@ -1,2 +1,9 @@
 # emQTL-Lung-Adenocarcinoma
 Integration of DNA methylation and gene expression data in lung adenocarcinoma
+
+
+
+# Abstract
+Aberrant DNA methylation, accompanied by aberrant gene expression, is a hallmark feature of many cancer types, including lung cancer. Despite our knowledge of epigenetic and transcriptomic alterations in lung adenocarcinoma (LUAD), there are no robust and widely used molecular classifications available for these patients. Moreover, the impact of epigenetic alterations on driving lung cancer development and progression is still not fully understood. In this study, we aim to identify disease-associated processes under epigenetic regulation in LUAD. We performed a genome-wide expression-methylation Quantitative Trait Loci (emQTL) analysis by integrating DNA methylation and gene expression data from patients. Using a community detection algorithm to cluster significant CpG-gene associations, we identify distinct communities associated with diverse biological processes. Interestingly, we identify a community linked to hormone response and lipid metabolism; the identified CpGs in this community were enriched in enhancer regions and binding regions for transcription factors such as FOXA1/2, GRHL2, HNF1B, AR, and ESR1. Furthermore, the CpGs were connected to their associated genes through chromatin interaction loops. These findings suggest that expression of genes involved in hormone response and lipid metabolism in LUAD is epigenetically regulated through DNA methylation and enhancer-promoter interactions. By applying consensus clustering on the integrated expression-methylation pattern of the emQTL-genes and CpGs linked to hormone response and lipid metabolism, we identified subclasses of patients with different prognoses, and this patient stratification was validated in an independent patient cohort. 
+
+
