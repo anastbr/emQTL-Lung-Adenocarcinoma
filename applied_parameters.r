@@ -1,5 +1,6 @@
-setwd("/open/work/Anastasia/one_click_emQTL")
-source("/open/work/Anastasia/one_click_emQTL/emQTL_functions_manuscript.r")
+
+source("emQTL_functions.r")
+source("one_click_emQTL_function.r")
 
 
 tic()
