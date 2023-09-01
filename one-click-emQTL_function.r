@@ -1,5 +1,5 @@
 ## -----------------------------------------------------------------------------
-source("/open/work/Anastasia/one_click_emQTL/emQTL_all_functions.r")
+source("emQTL_all_functions.r")
 library(qs) #save data as qs
 
 
